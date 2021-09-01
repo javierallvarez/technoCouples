@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Zen+Tokyo+Zoo&display=swap');
+
+
+:root {
+  --bg: #fafafa;
+  --font: 'Montserrat', sans-serif;
+  --font-display: 'Montserrat', sans-serif;
+  --hotgreen: #40E785;
+  --blue: #5c5c5c;
+  --gradient: linear-gradient(135deg, var(--blue), black);
+}
+
+body {
+  margin: auto;
+  min-height: 100vh;
+  background: var(--bg);
+  font-family: var(--font);
+  margin: 0;
+  padding: 0;
+}
